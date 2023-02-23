@@ -1,0 +1,12 @@
+.doBooking{
+
+    
+    border: rgb(65, 11, 11) 3px solid;
+    color: rgb(239, 239, 225);
+    font-size:medium;
+    background-color:#0f0d0d;
+    width: 200%;
+    height: 70%;
+    border-radius: 1%;
+    opacity: 0.9;
+}
